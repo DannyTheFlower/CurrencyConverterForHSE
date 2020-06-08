@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Basic Currency Converter</string>
+    <string name="hint1">Результат справа</string>
+    <string name="hint2">Или слева!</string>
+</resources>
